@@ -104,7 +104,6 @@ You can deploy this project by transfering files from your local repository to y
 ## 🤝 Contributing <a name="contributing"></a>
 
 
-
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
