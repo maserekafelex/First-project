@@ -125,7 +125,7 @@ I thank my partiners in learning and coding for better success in this program.
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 How did this man fix the linters ?
-
+I follow the instruction and incase of error i use --fix to fix that error
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
