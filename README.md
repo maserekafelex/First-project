@@ -119,7 +119,6 @@ If you like this project, kindly contact me on my github:Auther(#authors)
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I thank my partiners in learning and coding for better success in this program.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
