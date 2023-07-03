@@ -90,14 +90,13 @@ You can deploy this project by transfering files from your local repository to y
 - Twitter: [@maserekafelex](https://twitter.com/twittermaserekafelex)
 - LinkedIn: [Masereka Felex](https://linkedin.com/in/linkedinMaserekafelex)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Portfolio_1]**
-- [ ] **[About-us_2]**
-- [ ] **[Contact-us_3]**
+- [ ] **[Cards]**
+- [ ] **[About-us]**
+- [ ] **[Contact-us]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
